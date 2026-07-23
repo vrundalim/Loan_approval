@@ -81,4 +81,4 @@ GitHub:
 https://github.com/vrundalim
 
 live demo:
-"https://loanapproval-e8xwx2gdq7qbjgrlef8hbd.streamlit.app/"
+"https://loan-approval-predication.streamlit.app/"
