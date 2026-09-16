@@ -77,8 +77,5 @@ Model files:
 Author
 Vrundali
 
-GitHub:
-https://github.com/vrundalim
-
 live demo:
 "https://app-url.streamlit.app/"
